@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.78d880f6.chunk.css",
-    "main.js": "/static/js/main.05c5304c.chunk.js",
-    "main.js.map": "/static/js/main.05c5304c.chunk.js.map",
+    "main.css": "/static/css/main.6a4f2fc7.chunk.css",
+    "main.js": "/static/js/main.0850975d.chunk.js",
+    "main.js.map": "/static/js/main.0850975d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dda10417.js",
     "runtime-main.js.map": "/static/js/runtime-main.dda10417.js.map",
     "static/css/2.ad2ba851.chunk.css": "/static/css/2.ad2ba851.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.071f3a3d.chunk.js.map": "/static/js/2.071f3a3d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ad2ba851.chunk.css.map": "/static/css/2.ad2ba851.chunk.css.map",
-    "static/css/main.78d880f6.chunk.css.map": "/static/css/main.78d880f6.chunk.css.map",
+    "static/css/main.6a4f2fc7.chunk.css.map": "/static/css/main.6a4f2fc7.chunk.css.map",
     "static/js/2.071f3a3d.chunk.js.LICENSE.txt": "/static/js/2.071f3a3d.chunk.js.LICENSE.txt",
     "static/media/Privacy_policy.d5afb133.pdf": "/static/media/Privacy_policy.d5afb133.pdf",
     "static/media/RUSSIANS_HACK.83d68466.gif": "/static/media/RUSSIANS_HACK.83d68466.gif",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.dda10417.js",
     "static/css/2.ad2ba851.chunk.css",
     "static/js/2.071f3a3d.chunk.js",
-    "static/css/main.78d880f6.chunk.css",
-    "static/js/main.05c5304c.chunk.js"
+    "static/css/main.6a4f2fc7.chunk.css",
+    "static/js/main.0850975d.chunk.js"
   ]
 }
